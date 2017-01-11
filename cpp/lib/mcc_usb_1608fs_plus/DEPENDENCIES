@@ -1,0 +1,10 @@
+libusb-1.0
+libusb-1.0-devel
+libusb-1.0-0-dev
+libudev-dev
+libfox-1.6-dev
+autotools-dev
+autoconf
+automake
+libtool
+hidapi (https://github.com/signal11/hidapi)
